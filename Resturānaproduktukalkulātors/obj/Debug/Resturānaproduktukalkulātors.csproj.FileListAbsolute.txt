@@ -1,0 +1,12 @@
+D:\skola\md\Resturānaproduktukalkulātors\bin\Debug\Resturānaproduktukalkulātors.exe.config
+D:\skola\md\Resturānaproduktukalkulātors\bin\Debug\Resturānaproduktukalkulātors.exe
+D:\skola\md\Resturānaproduktukalkulātors\bin\Debug\Resturānaproduktukalkulātors.pdb
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.csproj.AssemblyReference.cache
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.csproj.SuggestedBindingRedirects.cache
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.Properties.Resources.resources
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.csproj.GenerateResource.cache
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.csproj.CoreCompileInputs.cache
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.exe
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.pdb
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.Form1.resources
+D:\skola\md\Resturānaproduktukalkulātors\obj\Debug\Resturānaproduktukalkulātors.Form2.resources
