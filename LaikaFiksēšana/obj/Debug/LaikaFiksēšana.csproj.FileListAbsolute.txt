@@ -1,0 +1,11 @@
+D:\skola\md\LaikaFiksēšana\bin\Debug\LaikaFiksēšana.exe.config
+D:\skola\md\LaikaFiksēšana\bin\Debug\LaikaFiksēšana.exe
+D:\skola\md\LaikaFiksēšana\bin\Debug\LaikaFiksēšana.pdb
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.csproj.AssemblyReference.cache
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.csproj.SuggestedBindingRedirects.cache
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.Form1.resources
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.Properties.Resources.resources
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.csproj.GenerateResource.cache
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.csproj.CoreCompileInputs.cache
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.exe
+D:\skola\md\LaikaFiksēšana\obj\Debug\LaikaFiksēšana.pdb
